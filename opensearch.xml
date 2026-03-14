@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>dev_unplugged</ShortName>
+  <LongName>A place for ideas I keep returning to — about things that actually matter to me</LongName>
+  <Description>dev_unplugged (by sw1pr0g) blog about software, music and other stuff</Description>
+  <Tags>python javascript go music rock tech</Tags>
+
+  <Url type="text/html" template="https://blog.sw1pr0g.com/?q={searchTerms}"/>
+  <Url type="application/atom+xml" template="https://blog.sw1pr0g.com/feed.xml"/>
+
+  <Image height="32" width="32" type="image/x-icon">https://blog.sw1pr0g.com/favicon.ico</Image>
+
+  <Language>en-us</Language>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+
+  <Developer>Alex Poryadin</Developer>
+  <Contact>sw1pr0g.dev@gmail.com</Contact>
+  <Attribution>Copyright 2026, Alex Poryadin, All Rights Reserved</Attribution>
+</OpenSearchDescription>

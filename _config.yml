@@ -1,0 +1,21 @@
+# Site settings
+title: "dev_unplugged"
+description: >
+  Place for ideas I keep returning to — about things that actually matter to me
+url: "https://blog.sw1pr0g.com"
+
+# Author
+author: Alex Poryadin
+email: sw1pr0g.dev@gmail.com
+github_username: sw1pr0g
+twitter_username: sw1pr0g
+
+# Build settings
+include: [_pages]
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
